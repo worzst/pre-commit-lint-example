@@ -1,3 +1,4 @@
 {
-  "*": "prettier --check"
+  "*": ["prettier --check"],
+  "*.{js,ts,jsx,tsx}": ["eslint"]
 }
