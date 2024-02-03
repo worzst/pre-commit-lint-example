@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "format:check": "prettier --check .",
-    "format:write": "prettier --write ."
+    "format:write": "prettier --write .",
+    "prepare": "husky"
   },
   "author": "Stefan Worzalla",
   "license": "ISC",
