@@ -10,6 +10,7 @@
   "author": "Stefan Worzalla",
   "license": "ISC",
   "devDependencies": {
+    "husky": "^9.0.10",
     "prettier": "^3.2.4"
   }
 }
