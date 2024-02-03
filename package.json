@@ -1,0 +1,11 @@
+{
+  "name": "pre-commit-lint-example",
+  "version": "1.0.0",
+  "description": "A simple example on how to setup pre-commit linting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Worzalla",
+  "license": "ISC"
+}
